@@ -1,0 +1,3 @@
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/Satorideemz/crud-personas/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/Satorideemz/crud-personas/tree/main)
+[![Maintainability](https://api.codeclimate.com/v1/badges/51cae0ad339b489aa79a/maintainability)](https://codeclimate.com/github/Satorideemz/crud-personas/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/51cae0ad339b489aa79a/test_coverage)](https://codeclimate.com/github/Satorideemz/crud-personas/test_coverage)
